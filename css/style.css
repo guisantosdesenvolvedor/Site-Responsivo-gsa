@@ -79,7 +79,7 @@ a {
     justify-content: center;
     align-items: center;
     color: #eee;
-    background: url('/img/showcase.jpg') no-repeat center center cover;
+    background: url('/img/Pr1.jpg') no-repeat center center cover;
 
     /* Overlay */
     background-color: rgb(54, 96, 231);
@@ -140,7 +140,7 @@ a {
     flex-direction: column;
     background: #333;
     padding: 20px;
-    border-radius: 5px;
+    border-radius: 40px;
 }
 
 .feature-title {
@@ -175,11 +175,11 @@ a {
 .testimonial {
     display: flex;
     align-items: center;
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     background: #333;
     padding: 15px;
-    margin: 15px 0;
-    border-radius: 5px;
+    margin: 25px 0;
+    border-radius: 40px;
 }
 
 #testimonials {
@@ -187,6 +187,7 @@ a {
     background: rgb(54, 96, 231);
     color: #eee;
     padding: 50px;
+
 }
 
 #testimonials-container {
@@ -213,7 +214,7 @@ a {
 
 #gallery-container {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     grid-gap: 30px;
     justify-items: center;
 }
@@ -222,7 +223,7 @@ a {
     display: inline-block;
     width: 540px;
     height: 360px;
-    border-radius: 5px;
+    border-radius: 26px;
 }
 
 /* Footer */
