@@ -27,7 +27,7 @@ a {
 }
 
 .btn:hover {
-    cursor: cell;
+    cursor: pointer;
     transition-duration: 3s;
     background: rgb(37, 36, 36);
 }
