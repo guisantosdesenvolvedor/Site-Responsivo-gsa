@@ -10,7 +10,17 @@
 </head>
 
 <body>
-    <?php include('header.html')?>
+   
+    <nav id="navbar">
+        <div id="navbar-container">
+            <h1 class="logo">Gsa Sites</h1>
+            <ul id="navbar-items">
+                <li><a href="#showcase">Início</a></li>
+                <li><a href="#clients">Sobre</a></li>
+                <li><a href="#gallery">Galeria</a></li>
+            </ul>
+        </div>
+    </nav>
     <header id="showcase">
         <div id="showcase-container">
             <h2>Lorem ipsum dolor sit amet.</h2>
