@@ -27,7 +27,8 @@ a {
 }
 
 .btn:hover {
-    cursor: pointer;
+    cursor: cell;
+    transition-duration: 3s;
     background: rgb(37, 36, 36);
 }
 
@@ -79,7 +80,6 @@ a {
     justify-content: center;
     align-items: center;
     color: #eee;
-    background: url('/img/Pr1.jpg') no-repeat center center cover;
 
     /* Overlay */
     background-color: rgb(54, 96, 231);
