@@ -13,7 +13,7 @@
    
     <nav id="navbar">
         <div id="navbar-container">
-            <h1 class="logo">Gsa Sites</h1>
+            <h1 class="logo">MELLITUS</h1>
             <ul id="navbar-items">
                 <li><a href="#showcase">Início</a></li>
                 <li><a href="#clients">Sobre</a></li>
@@ -23,15 +23,15 @@
     </nav>
     <header id="showcase">
         <div id="showcase-container">
-            <h2>Lorem ipsum dolor sit amet.</h2>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore, sed!</p>
-            <a href="" class="btn">Saiba mais</a>
+            <h2>Baixe nosso aplicativo para mobile.</h2>
+            <p>Um site com especificações sobre diabetes<br> é uma plataforma online que <br>fornece informações detalhadas e precisas sobre os<br> diferentes aspectos da doença,<br> incluindo causas, sintomas, tratamentos, prevenção e gestão.</p>
+            <a href="" class="btn">DOWNLOAD</a>
         </div>
     </header>
 
     <!-- About -->
     <section id="clients">
-        <div class="headline">Nossos clientes</div>
+        <div class="headline">APOIADORES</div>
         <div id="clients-container">
             <img src="img/netflix.png" class="client" alt="">
             <img src="img/google.png" class="client" alt="">
@@ -44,22 +44,25 @@
         <div class="headline">O que fazemos</div>
         <div id="features-container">
             <div class="feature">
-                <i class="fas fa-tachometer-alt fa-3x"></i> <!--Botstrap das  imagens-->
-                <span class="feature-title">Lorem ipsum dolor sit amet.</span>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores animi laboriosam illo, doloremque
-                    placeat et.</p>
+                <i class="far fa-bell fa-3x"></i> <!--Botstrap das  imagens-->
+                <br>
+                <span class="feature-title">ALARME</span>
+                <br>
+                <p>Um sistema de notificação programado para emitir um alerta em um determinado horário, com o objetivo de lembrar o usuário de tomar um medicamento específico de acordo com uma prescrição médica previamente estabelecida. O sistema utiliza um conjunto de sensores e algoritmos para monitorar o tempo e enviar uma notificação personalizada, visando garantir a adesão ao tratamento e promover a saúde do paciente..</p>
             </div>
             <div class="feature"> 
-                <i class="fas fa-code fa-3x"></i> <!--Botstrap das  imagens-->
-                <span class="feature-title">Lorem ipsum dolor sit amet.</span>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores animi laboriosam illo, doloremque
-                    placeat et.</p>
+                <i class="fas fa-book-medical fa-3x"></i> <!--Botstrap das  imagens-->
+                <br>
+                <span class="feature-title">TRATAMENTO</span>
+                <br>
+                <p>O tratamento completo do diabetes envolve um conjunto de estratégias terapêuticas com o objetivo de controlar efetivamente a glicemia e prevenir complicações associadas à doença. Isso inclui o uso de medicações hipoglicemiantes orais, como sulfonilureias, biguanidas e inibidores da dipeptidil peptidase-4, além de insulina em casos mais graves de diabetes mellitus tipo 1 ou em casos selecionados de diabetes mellitus tipo 2.</p>
             </div>
             <div class="feature">
-                <i class="fas fa-layer-group fa-3x"></i> <!--Botstrap das  imagens-->
-                <span class="feature-title">Lorem ipsum dolor sit amet.</span>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores animi laboriosam illo, doloremque
-                    placeat et.</p>
+                <i class="far fa-calendar-alt fa-3x"></i> <!--Botstrap das  imagens-->
+                <br>
+                <span class="feature-title">CALENDARIO</span>
+                <br>
+                <p>Um calendário de medicamentos com horário é uma ferramenta terapêutica que visa auxiliar o paciente na adesão ao tratamento medicamentoso e prevenir a ocorrência de erros de administração de medicamentos. Este calendário é composto por uma lista de medicamentos prescritos e seus respectivos horários de administração </p>
             </div>
         </div>
     </section>
@@ -98,14 +101,11 @@
         <div id="testimonials-container">
             <div class="testimonial">
                 <img src="img/person-1.jpeg" alt="" class="testimonial-image">
-                <p>"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magni, autem dolores dolorum cumque
-                    voluptas eius. Eum quisquam illum error sapiente?"</p>
+                <p>"O sistema de diabetes envolve tecnologias e conhecimentos científicos para o diagnóstico, tratamento e acompanhamento de pacientes com diabetes mellitus, sendo uma área essencial para o cuidado da saúde desses pacientes."</p>
             </div>
             <div class="testimonial">
                 <img src="img/person-2.jpeg" alt="" class="testimonial-image">
-                <p>"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magni, autem dolores dolorum cumque
-                    voluptas
-                    eius. Eum quisquam illum error sapiente?"</p>
+                <p>"Parabéns pelo seu software! É ótimo ver pessoas dedicadas a criar soluções tecnológicas que possam melhorar a vida das pessoas. Sucesso em seus projetos!       "</p>
             </div>
         </div>
     </div>
@@ -114,12 +114,12 @@
     <section id="gallery">
         <div class="headline">Galeria</div>
         <div id="gallery-container">
-            <img src="img/image-1.jpeg" alt="" class="gallery-image">
-            <img src="img/image-2.jpeg" alt="" class="gallery-image">
-            <img src="img/image-3.jpeg" alt="" class="gallery-image">
-            <img src="img/image-4.jpeg" alt="" class="gallery-image">
-            <img src="img/image-5.jpeg" alt="" class="gallery-image">
-            <img src="img/image-6.jpeg" alt="" class="gallery-image">
+            <img src="img/img1.jpg" alt="" class="gallery-image">
+            <img src="img/img2.jfif" alt="" class="gallery-image">
+            <img src="img/img3.jpg" alt="" class="gallery-image">
+            <img src="img/img4.jpg" alt="" class="gallery-image">
+            <img src="img/img5.jpg" alt="" class="gallery-image">
+            <img src="img/img6.png" alt="" class="gallery-image">
         </div>
     </section>
 
