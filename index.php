@@ -41,7 +41,7 @@
     </section>
 
     <section id="features">
-        <div class="headline">O que fazemos</div>
+        <div class="headline">Sobre o Sistema</div>
         <div id="features-container">
             <div class="feature">
                 <i class="far fa-bell fa-3x"></i> <!--Botstrap das  imagens-->

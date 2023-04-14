@@ -83,12 +83,13 @@ li a {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: rgb(29, 24, 24);
+    color: rgb(255, 254, 254);
 
 
     /* Overlay */
-    background-image: url(img/img1.jpg);
+    background-image: url(../img/fundo\ copiar.jpg) ;
 }
+
 
 #showcase-container {
     text-align: center;
