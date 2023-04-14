@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" media="screen and (max-width: 768px)" href="css/mobile.css">
-    <title>Gsa Site Responsivo</title>
+    <title>MELLITUS</title>
 </head>
 
 <body>

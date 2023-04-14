@@ -10,7 +10,11 @@ body { /*colocando fonte*/
     font-family: 'Roboto', sans-serif;
 }
 
-a { 
+/* header fundo  */
+ 
+
+li a { 
+    
     text-decoration: none;
     color: inherit;
 }
@@ -81,9 +85,9 @@ a {
     align-items: center;
     color: rgb(29, 24, 24);
 
+
     /* Overlay */
     background-image: url(img/img1.jpg);
-    background-blend-mode: color;
 }
 
 #showcase-container {
