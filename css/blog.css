@@ -1,0 +1,31 @@
+.imagemblog{
+    display: flex;
+    padding: 40px;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagemblog img{
+    height: 600px;
+    width: 1000px;
+}
+
+.ajustecard{
+    padding: 50px 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ajustetxt{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card img{
+    height: 300px;
+    width: 482.90px;
+}
+
