@@ -25,6 +25,7 @@
         <div id="showcase-container">
             <h2>Baixe nosso aplicativo para mobile.</h2>
             <p>Um site com especificações sobre diabetes<br> é uma plataforma online que <br>fornece informações detalhadas e precisas sobre os<br> diferentes aspectos da doença,<br> incluindo causas, sintomas, tratamentos, prevenção e gestão.</p>
+            <br><br><br>
             <a href="" class="btn">DOWNLOAD</a>
         </div>
     </header>
