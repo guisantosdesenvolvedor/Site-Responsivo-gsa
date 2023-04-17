@@ -68,29 +68,25 @@
     </section>
 
     <section id="product">
-        <div class="headline">Nosso produto</div>
+        <div class="headline">O que podemos ajudar?</div>
         <div id="product-container">
-            <img src="img/logotst.webp" alt="">
+            <img src="img/diabetes-measuremen-device-free-png.webp" alt="">
             <div id="items">
                 <div class="item">
-                    <i class="fas fa-map-marked fa-2x color-primary"></i> <!--Botstrap das  imagens-->
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odio expedita provident nam hic beatae
-                        voluptate!</p>
+                    <i class="fas fa-tint fa-2x color-primary"></i> <!--Botstrap das  imagens-->
+                    <p>O controlador de mellitus é uma ferramenta que pode auxiliar as pessoas com diabetes a monitorar a glicemia e controlar a doença.</p>
                 </div>
                 <div class="item">
-                    <i class="fas fa-users fa-2x color-primary"></i> <!--Botstrap das  imagens-->
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odio expedita provident nam hic beatae
-                        voluptate!</p>
+                    <i class="fas fa-bell fa-2x color-primary"></i> <!--Botstrap das  imagens-->
+                    <p>O alarme de diabetes é um dispositivo que pode ajudar a monitorar a glicemia de forma constante, alertando o usuário quando os níveis de açúcar no sangue estão muito altos ou baixos.</p>
                 </div>
                 <div class="item">
-                    <i class="fas fa-glass-cheers fa-2x color-primary"></i> <!--Botstrap das  imagens-->
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odio expedita provident nam hic beatae
-                        voluptate!</p>
+                    <i class="fas fa-calendar-alt fa-2x color-primary"></i> <!--Botstrap das  imagens-->
+                    <p>O calendário de diabetes é uma ferramenta útil para quem vive com a condição, permitindo o acompanhamento regular do controle glicêmico e das atividades relacionadas ao tratamento</p>
                 </div>
                 <div class="item">
-                    <i class="fas fa-book-open fa-2x"></i> <!--Botstrap das  imagens-->
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odio expedita provident nam hic beatae
-                        voluptate!</p>
+                    <i class="fas fa-file-alt fa-2x"></i> <!--Botstrap das  imagens-->
+                    <p>A receita de diabetes é uma recomendação nutricional específica para pessoas com diabetes, que visa garantir uma alimentação saudável e balanceada para controlar os níveis de açúcar no sangue.</p>
                 </div>
             </div>
         </div>
